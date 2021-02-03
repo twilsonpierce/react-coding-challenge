@@ -1,7 +1,3 @@
-# Stan Coding Challenge
-
-> Welcome to the Stan Coding Challenge!
-
 ## Overview
 
 To complete this challenge, you will need to write a simple [React](https://facebook.github.io/react/) based web app, and provide us the source files to be built.
@@ -77,19 +73,10 @@ You will also need to handle the loading and error states of fetching the JSON f
 - "Loading" state [screens/1.1-loading.jpg](./screens/1.1-loading.jpg)
 - "Error" state [screens/1.2-error.jpg](./screens/1.2-error.jpg)
 
-## FAQ
-
-### What language, framework, build tool... should I use?
-
-You may use whatever you like as long as the solution is built using [React](https://facebook.github.io/react/) or an equivalent library.
-
-We prefer it if you did not use any third party CSS frameworks.
-
-We also prefer the use of minimal dependencies.
+You may use whatever frameworks and libraries you like as long as the solution is built using [React](https://facebook.github.io/react/) v16 or above
 
 ## Useful Links
 
-- [Bitbucket](https://bitbucket.org/) - Source code hosting, with free private repositories for small teams.
 - [Google Fonts - Raleway](https://fonts.google.com/?selection.family=Raleway)
 - [React](https://facebook.github.io/react/)
 
